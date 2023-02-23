@@ -55,3 +55,12 @@ https://user-images.githubusercontent.com/122859073/221035621-5638c2d6-0128-4da2
 
 
 </li></ul>
+
+<h3>Here are my social media handles:<h3>
+
+
+Linkedin:https://www.linkedin.com/in/shalini-sinha-bbb943202/<br>
+
+Email:shalinisinha.cspatna@gmail.com
+
+<h4>Thank you!<h4>
