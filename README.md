@@ -13,7 +13,8 @@
 <h2>DEMO </h2>
 
 <ul><li>Create your task by clicking on add icon and then write your task and select priority by giving one of the colors.(light pink>light blue>light green>black)
-![Untitled design (2)](https://user-images.githubusercontent.com/122859073/221036673-d0cc3710-50c2-485d-843d-6636e6d45335.png)
+![add task](https://user-images.githubusercontent.com/122859073/221038804-1f9e4321-68a7-49a0-903b-3b2e581fb59b.png)
+
 </li>
 <br>
 <li>Task is created!!
