@@ -3,6 +3,7 @@
 
 
 
+
 <h3>JIRA is used as a bug tracking and issue tracking tool with benefits like:</h3>
 <ol><li>Ability to track project progress from time to time.</li>
 <li>You can give the priority to each task while creating the ticket for task.</li>
@@ -12,7 +13,9 @@
 
 <h2>DEMO </h2>
 
-<ul><li>Create your task by clicking on add icon and then write your task and select priority by giving one of the colors.(light pink>light blue>light green>black)
+<ul><li>Create your task by clicking on add icon and then write your task and select priority by giving one of the colors.(Light pink>Light blue>Light green>black)
+
+  
 ![add task](https://user-images.githubusercontent.com/122859073/221038804-1f9e4321-68a7-49a0-903b-3b2e581fb59b.png)
 
 </li>
