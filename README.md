@@ -8,7 +8,6 @@
 <ol><li>Ability to track project progress from time to time.</li>
 <li>You can give the priority to each task while creating the ticket for task.</li>
 <li>Define unique issue states for each task.</li>
-<li>You can give the priority to each task while creating the ticket for task.</li>
 <li>you can also filters the task on the basis of priority.</li></ul>
 
 <h2>DEMO </h2>
