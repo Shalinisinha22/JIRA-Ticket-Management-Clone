@@ -10,6 +10,13 @@
 <li>Define unique issue states for each task.</li>
 <li>you can also filters the task on the basis of priority.</li></ul>
 
+<h2>🚀 Technical Stack:</h2>
+
+<ul>
+<li>Programming Language: Javascript, HTML, CSS</li>
+<li>IDE: VScode</li>
+</ul>
+
 <h2>DEMO </h2>
 
 <ul><li>Create your task by clicking on add icon and then write your task and select priority by giving one of the colors.(Light pink>Light blue>Light green>black)
