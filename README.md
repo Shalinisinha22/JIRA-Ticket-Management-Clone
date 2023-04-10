@@ -6,9 +6,9 @@
 
 <h3>JIRA is used as a bug tracking and issue tracking tool with benefits like:</h3>
 <ol><li>Ability to track project progress from time to time.</li>
-<li>You can give the priority to each task while creating the ticket for task.</li>
+<li>We can give the priority to each task while creating the ticket for task.</li>
 <li>Define unique issue states for each task.</li>
-<li>you can also filters the task on the basis of priority.</li></ul>
+<li>We can also filters the task on the basis of priority.</li></ul>
 
 <h2>🚀 Technical Stack:</h2>
 
