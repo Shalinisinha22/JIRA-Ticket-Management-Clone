@@ -1,7 +1,7 @@
 # JIRA-Ticket-Management-Clone
 
 
-
+Link: https://shalinisinha22.github.io/JIRA-Ticket-Management-Clone/
 
 
 <h3>JIRA is used as a bug tracking and issue tracking tool with benefits like:</h3>
