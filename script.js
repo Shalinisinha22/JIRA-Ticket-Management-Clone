@@ -77,7 +77,7 @@ removebtn.addEventListener("click",(e)=>{
 
    //generate tickets  
    modalcont.addEventListener("keydown",(e)=>{
-    if(e.key==="Shift"){
+    if(e.key==="Enter"){
    
       createTicket(modalPriorityColors,textArea.value) 
     
