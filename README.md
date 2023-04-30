@@ -19,7 +19,7 @@ Link: https://shalinisinha22.github.io/JIRA-Ticket-Management-Clone/
 
 <h2>DEMO </h2>
 
-<ul><li>Create your task by clicking on add icon and then write your task and select priority by giving one of the colors.(Light pink>Light blue>Light green>black)
+<ul><li>Create your task by clicking on add icon and then write your task and select priority by giving one of the colors(Light pink>Light blue>Light green>black) and then press shift key.
 
   
 ![add task](https://user-images.githubusercontent.com/122859073/221038804-1f9e4321-68a7-49a0-903b-3b2e581fb59b.png)
@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/122859073/221034843-2682314c-4735-455d
 </li>
 
 <br>
-<li>If you want to delete the task then you click the remove button and then click the task which you want to delete.
+<li>If you want to delete the task then you click the remove button and then click the task which you want to delete and again click on the remove button to deactivate it.
 
 https://user-images.githubusercontent.com/122859073/221035152-32d6f000-f45a-46d6-98b3-cd3555e82a27.mp4
 </li>
